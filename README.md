@@ -74,7 +74,7 @@ Makin rajin belajar, makin tinggi level kamu!
 
 ## 🚀 Cara Install
 
-1. Download file `.apk` 
+1. Download file `.apk` dari halaman [Releases](../../releases)
 2. Aktifkan **Install dari sumber tidak dikenal** di pengaturan Android
 3. Install dan buka aplikasi
 4. Daftar akun dan mulai belajar!
